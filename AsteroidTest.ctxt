@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AsteroidTest()
+comment0.text=\r\n\ Creates\ a\ new\ AsteroidTest\ test\ object.\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment2.params=
+comment2.target=void\ testAct1()
+comment2.text=\r\n\ Tests\ the\ act()\ method\ of\ the\ asteroid\ class.\r\n
+comment3.params=
+comment3.target=void\ testAct2()
+comment3.text=\r\n\ Tests\ another\ part\ of\ the\ act()\ method\r\n\ of\ the\ asteroid\ class.\r\n
+comment4.params=
+comment4.target=void\ testWrapAround()
+comment4.text=\r\n\ Tests\ the\ wrapAround()\ method\ of\ the\ asteroid\ class.\r\n
+comment5.params=
+comment5.target=void\ testGetSpeed()
+comment5.text=\r\n\ Tests\ the\ getSpeed()\ method\ of\ the\ Asteroid\ class.\r\n
+comment6.params=
+comment6.target=void\ testShipHit()
+comment6.text=\r\n\ Tests\ when\ the\ ship\ and\ an\ asteroid\ would\ collide\r\n\ and\ that\ both\ the\ collided\ asteroid\ and\ ship\ would\r\n\ get\ removed\ from\ the\ space.\r\n
+numComments=7
